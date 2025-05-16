@@ -1,0 +1,14 @@
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\bin\Debug\net9.0\MeuCrudCSharp.exe
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\bin\Debug\net9.0\MeuCrudCSharp.deps.json
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\bin\Debug\net9.0\MeuCrudCSharp.runtimeconfig.json
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\bin\Debug\net9.0\MeuCrudCSharp.dll
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\bin\Debug\net9.0\MeuCrudCSharp.pdb
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\obj\Debug\net9.0\MeuCrudCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\obj\Debug\net9.0\MeuCrudCSharp.AssemblyInfoInputs.cache
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\obj\Debug\net9.0\MeuCrudCSharp.AssemblyInfo.cs
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\obj\Debug\net9.0\MeuCrudCSharp.csproj.CoreCompileInputs.cache
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\obj\Debug\net9.0\MeuCrudCSharp.dll
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\obj\Debug\net9.0\refint\MeuCrudCSharp.dll
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\obj\Debug\net9.0\MeuCrudCSharp.pdb
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\obj\Debug\net9.0\MeuCrudCSharp.genruntimeconfig.cache
+C:\Users\luize\OneDrive\Desktop\DIO\MeuCrudCSharp\obj\Debug\net9.0\ref\MeuCrudCSharp.dll
